@@ -1,2 +1,1 @@
-# firstproject
-This is my first project using html css and php. 
+This is my first project using html css and php. Basically i am learning backend in which i am learning php. So this website is as my first project of backend. This website is about a website which helps the user to report their problem and get immediate help.
